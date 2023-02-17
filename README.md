@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nahbiphung
 - 👀 I’m interested in coding, playing games...
-- 🌱 I’m currently learning Angular, .NET, C#
+- 🌱 I’m currently learning Angular, .NET, C#, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me phunggiaoai@gmail.com
 
